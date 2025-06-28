@@ -1,6 +1,5 @@
 <h1>Secure-Network-Segmentation-VLAN-Isolation</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project demonstrates the configuration of a segmented network in Cisco Packet Tracer, featuring a 14-node network and a 6-node network with VLAN-isolated web servers. All devices are manually configured using static IP addressing to ensure precise control over network communication. The setup includes router and switch configuration, VLAN segmentation for isolation, and inter-network connectivity to enable secure and efficient communication.
