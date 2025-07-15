@@ -93,7 +93,7 @@ Repeat the same steps for the remaining 11 PCs (PC1 – PC11), choosing the subs
 <img src="https://i.imgur.com/sMbDENh.png"/>
 <br />
 <br />
-Click on the Router, select Config, click at FastEthernet0/0 on the Interface tab, add 192.168.110.14 as the IP Address, 255.255.255.2 as the Subnet mask and turn on the Port Status: <br/>
+Click on the Router, select Config, click at FastEthernet0/0 on the Interface tab, add 192.168.110.14 as the IP Address, 255.255.255.240 as the Subnet mask and turn on the Port Status: <br/>
 <img src="https://i.imgur.com/OjOsNBf.png"/>
 <br />
 <br />
